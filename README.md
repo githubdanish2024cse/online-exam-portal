@@ -1,0 +1,1 @@
+The Exam Portal combines the power of Spring Boot's robust backend capabilities, AngularJS's dynamic frontend, and the reliability of MySQL as the database management system. It offers an intuitive user interface, advanced features for exam creation and management, and detailed result analysis
